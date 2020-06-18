@@ -1,9 +1,5 @@
 [English README](https://github.com/bdunderscore/vrchat-scroll-calendar/blob/trunk/Assets/000%20bd_/ScrollEventCalendar/README-en.md)
 
-<font size="20">
-  リリース準備中です。準備ができるまでしばらくお待ちください。リリースとともに画像URLが変更される可能性がありますので、この時点でワールドに組み込むことをお控えください。
-</font>
-
 アセット: VRChat想定スクロール式イベントカレンダー<br>
 バージョン: 1.0
 
@@ -12,6 +8,10 @@
 
 [1]: https://twitter.com/bd_j
 [2]: https://twitter.com/color_kotonoshi
+
+# お願い - リリース準備中です
+
+準備ができるまでしばらくお待ちください。リリースとともに画像URLが変更される可能性がありますので、この時点でワールドに組み込むことをお控えください。
 
 # 概要
 このアセットは、カッコウ様が運営する[VRChatイベントカレンダー][10]の情報を、VRChat内で表示するアセットです。イベントが多い日の対策として、スクロールできる仕様となっています。
